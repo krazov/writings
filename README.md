@@ -1,5 +1,7 @@
 # Writings
 
+Things I have written.
+
 ## JavaScript
 
-* [Non-`new` constructors](./actual-writings/non-new-constructors.md)
+* [Non-`new` constructors](./posts/non-new-constructors.md)
