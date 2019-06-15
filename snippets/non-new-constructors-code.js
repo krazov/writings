@@ -19,9 +19,9 @@
         }
     }
 
-	console.log(new Teacher('Trevor', 'arts'));
+    console.log(new Teacher('Trevor', 'arts'));
     console.log(Teacher.child('Trevor', 'arts'));
 
-	console.log(Teacher.child.call({}, 'Jeffrey', 'maths'));
-	console.log(Teacher.child.call(null, 'Jeffrey', 'maths'));
+    console.log(Teacher.child.call({}, 'Jeffrey', 'maths'));
+    console.log(Teacher.child.call(null, 'Jeffrey', 'maths'));
 }
