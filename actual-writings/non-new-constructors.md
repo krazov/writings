@@ -177,7 +177,7 @@ While I find JavaScript’s _class_ a neat way to describe arbitrary data struct
 
 ---
 
-The pieces of the code with `Person` and `Teacher` put together can be found [here](../snippets/non-new-constructors.js).
+The pieces of the code with `Person` and `Teacher` put together can be found [here](../snippets/non-new-constructors-code.js).
 
 ---
 
