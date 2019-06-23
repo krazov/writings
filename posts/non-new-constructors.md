@@ -171,7 +171,7 @@ export default ObjectX;
 
 Despite different details of implementation, they have consistent interfaces they can be called with. However, only the first one would be possible to extend with `extends`.
 
-## Summary
+## Conclusion
 
 While I find JavaScript’s _class_ a neat way to describe arbitrary data structures coupled with methods to handle them, it’s not always the best choice. Method `of` is one of possible solutions to loosen otherwise tight coupling.
 
