@@ -6,28 +6,28 @@ console.clear();
 {
     console.log('Iterating with `for..in` over two types of arrays');
     console.groupCollapsed('Proper array');
-	const array = [];
+    const array = [];
 
-	array.push(42);
-	array.push(63);
+    array.push(42);
+    array.push(63);
 
-	for (const item in array) {
-		if (array.hasOwnProperty(item)) {
-			console.log(`${item}: ${array[item]}`);
+    for (const item in array) {
+        if (array.hasOwnProperty(item)) {
+            console.log(`${item}: ${array[item]}`);
         }
-	}
+    }
     console.groupEnd();
 
     console.groupCollapsed('Object.create(Array.prototype)');
-	const pseudo = Object.create(Array.prototype);
+    const pseudo = Object.create(Array.prototype);
 
-	pseudo.push(42);
-	pseudo.push(63);
+    pseudo.push(42);
+    pseudo.push(63);
 
-	for (const item in pseudo) {
-		if (pseudo.hasOwnProperty(item)) {
-			console.log(`${item}: ${pseudo[item]}`);
+    for (const item in pseudo) {
+        if (pseudo.hasOwnProperty(item)) {
+            console.log(`${item}: ${pseudo[item]}`);
         }
-	}
+    }
     console.groupEnd();
 }
