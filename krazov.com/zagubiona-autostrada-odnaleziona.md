@@ -115,8 +115,6 @@ Zatem zdanie, że "Dick Laurent nie żyje" jest pierwszą próbą przebicia się
 
 Genialne, panie Lynch.
 
-## Rekonstrukcja
-
 ---
 
 >_Funny how secrets travel home_
