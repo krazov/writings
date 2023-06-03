@@ -10,7 +10,7 @@ W tekście są szczegóły fabularne, które idealnie zostaną odkryte dopiero w
 
 ## Wstęp
 
-W przypadku ["Zagubionej autostrady"](http://pl.wikipedia.org/wiki/Zagubiona_autostrada) ostrzeżenie powinno być moim zdaniem rozszerzone, ponieważ film dorobił się opinii nie mającego jednej interpretacji.
+W przypadku [„Zagubionej autostrady”](http://pl.wikipedia.org/wiki/Zagubiona_autostrada) ostrzeżenie powinno być moim zdaniem rozszerzone, ponieważ film dorobił się opinii nie mającego jednej interpretacji.
 
 Przyznaję, iż sam tak sądziłem przez wiele lat, ale pewnego nudnego dnia w nie pamiętam której pracy szukałem czegoś o Tajemniczym Mężczyznie, który pojawia się w scenie uważanej za jedną ze straszniejszych w filmach Lyncha, pomimo iż zasadniczo nic się w niej nie dzieje — a raczej dokładnie dlatego. Szukałem tylko o Tajemniczym Mężczyźnie, a znalazłem prawdziwą petardę: stronę z wywiadami z wszystkimi ludźmi biorącymi udział w tworzeniu filmu ([David Lynch](https://en.wikipedia.org/wiki/David_Lynch), [współscenarzysta Barry Gifford](http://pl.wikipedia.org/wiki/Barry_Gifford), [Angelo Badalamenti](http://pl.wikipedia.org/wiki/Angelo_Badalamenti) oraz aktorzy). Czytając kolejne wypowiedzi, doszedłem do wniosku, że pomimo zakręcenia i powszechnie postrzeganej dowolności w interpretowaniu fabuły, „Zagubiona autostrada” ma jedno wyjaśnienie.
 
@@ -20,11 +20,11 @@ Tak więc, jeżeli uważasz, że film ma wiele znaczeń, w tym żadnego prawdziw
 
 Głównym bohaterem filmu jest Fred Madison, który z zawodu jest saksofonistą oraz który ma żonę, o którą jest chorobliwie zazdrosny i którą podejrzewa o zdradę. Atmosfera się zagęszcza (m.in. sprawdza ją, dzwoniąc do domu i nie zastając), a sprawę pogarsza fakt, że Fred — najprawdopodobniej na tle psychicznym — cierpi na impotencję, co umniejsza go w jego własnych oczach. W końcu brutalnie zabija żonę, zostaje aresztowany i osadzony w celi śmierci, gdzie w zamknięciu snuje różne wizje.
 
-To cała _akcja_ filmu. Na szczęście *warstwa fabularna* jest bogatsza.
+To cała *akcja* filmu. Na szczęście *warstwa fabularna* jest bogatsza.
 
 ## Klucz do filmu
 
-Pamiętam, że kiedy grano "Zagubioną autostradę" na TVP2, w rozmowie z Davidem Lynchem poprzedzającej seans Grażyna Torbicka przytoczyła scenę, w której Freda i Rene odwiedzają policjanci, z których jeden zwraca uwagę na brak zdjęć. **Fred mówi wtedy, że lubi pamiętać rzeczy po swojemu, niekoniecznie tak jak się działy.** Grażyna Torbicka powiedziała, iż wyczuwa, że to zdanie jest istotne, co David Lynch potwierdził, dodając od siebie, że to coś w rodzaju zdania-klucza. To pierwsza rzecz, którą wiemy o Fredzie na pewno: że lubi po swojemu.
+Pamiętam, że kiedy grano „Zagubioną autostradę” na TVP2, w rozmowie z Davidem Lynchem poprzedzającej seans Grażyna Torbicka przytoczyła scenę, w której Freda i Rene odwiedzają policjanci, z których jeden zwraca uwagę na brak zdjęć. **Fred mówi wtedy, że lubi pamiętać rzeczy po swojemu, niekoniecznie tak jak się działy.** Grażyna Torbicka powiedziała, iż wyczuwa, że to zdanie jest istotne, co David Lynch potwierdził, dodając od siebie, że to coś w rodzaju zdania-klucza. To pierwsza rzecz, którą wiemy o Fredzie na pewno: że lubi po swojemu.
 
 ## Część I: Historia pewnego małżeństwa
 
@@ -42,7 +42,7 @@ W części pierwszej Tajemniczy Człowiek pojawia się jeszcze w jednej scenie: 
 
 ### Taśmy
 
-Tak docieramy do taśm wideo, które ktoś podrzuca do domu. Otóż nikt nie podrzuca taśm. Nie ma żadnych taśm. Jak dowiemy się potem z części trzeciej, operatorem kamery jest Tajemniczy Człowiek, a ten nie istnieje. Wiadomo jednak, że Fred nie lubi zdjęć i woli pamiętać po swojemu, zatem taśmy pełnią tutaj inną rolę: są w pokręconych wizjach naszego saksofonisty symbolem niezafałszowanych wspomnień — czymś, czego nie może zanegować. Akt „podrzucania" ich jest podświadomością Freda, która próbuje przebić się na wierzch.
+Tak docieramy do taśm wideo, które ktoś podrzuca do domu. Otóż nikt nie podrzuca taśm. Nie ma żadnych taśm. Jak dowiemy się potem z części trzeciej, operatorem kamery jest Tajemniczy Człowiek, a ten nie istnieje. Wiadomo jednak, że Fred nie lubi zdjęć i woli pamiętać po swojemu, zatem taśmy pełnią tutaj inną rolę: są w pokręconych wizjach naszego saksofonisty symbolem niezafałszowanych wspomnień — czymś, czego nie może zanegować. Akt „podrzucania” ich jest podświadomością Freda, która próbuje przebić się na wierzch.
 
 Co możemy zobaczyć na nagraniach? Właściwie nic takiego: ujęcie sprzed domu, następnie nagranie z domu oraz wreszcie z ich sypialni. Po tej ostatniej taśmie wzywają policję, która nie jest w stanie niczego ustalić. Co się dzieje naprawdę (w głowie Freda siedzącego w celi): Fred nieskutecznie próbuje usunąć wspomnienie tego, że zabił żonę, ale nie ma tego pod kontrolą.
 
@@ -88,7 +88,7 @@ W zaistniałej sytuacji Alice proponuje Pete’owi ucieczkę. Plan jest prosty: 
 
 W hotelu dostajemy jeszcze jeden ważny trop od twórców filmu: jest nim zdjęcie przedstawiające Andy’ego, Rene, Alice oraz pana Eddy’ego. Patrząc na zdjęcie, Pete mówi, że są takie same.
 
-Para ucieka do drewnianej chaty na pustyni, ale *tajemniczego* znajomego jeszcze nie ma, więc postanawiają zaczekać na zewnątrz. Pete i Alice odbywają w świetle samochodu stosunek, podczas którego Pete wciąż powtarza: "Chcę cię, chcę cię", ale w pewnym momencie Alice odpowiada: „Nigdy nie będziesz mnie miał”. Następnie wstaje i idzie do chaty.
+Para ucieka do drewnianej chaty na pustyni, ale *tajemniczego* znajomego jeszcze nie ma, więc postanawiają zaczekać na zewnątrz. Pete i Alice odbywają w świetle samochodu stosunek, podczas którego Pete wciąż powtarza: „Chcę cię, chcę cię”, ale w pewnym momencie Alice odpowiada: „Nigdy nie będziesz mnie miał”. Następnie wstaje i idzie do chaty.
 
 Tak kończy się część druga. Próba stworzenia sobie w wyobraźni innego świata również legła w gruzach, ponieważ chorobliwa chęć całkowitego posiadania swojej żony i zadrość ponownie wzięły górę.
 
@@ -111,15 +111,15 @@ Pomimo iż jest to trudne, można zidentyfikować przynajmniej niektóre wydarze
 1. Fred związał się z Rene, która miała przeszłość (branża porno).
 2. Był o nią zazdrosny — może słusznie, może nie — i pewnego dnia odbiło mu, w efekcie czego zabił Andy'ego i pana Eddy'ego, a na koniec ją samą.
 
-Zatem zdanie, że "Dick Laurent nie żyje" jest pierwszą próbą przebicia się do świadomości i temu służy — pokazaniu, że to już tylko rojenia Freda. Dlatego Tajemniczy Człowiek na przyjęciu przywołał Andy'emu na myśl „jakiegoś znajomego Dicka Laurenta”. Policjanci, którzy zjawiają się w domu Freda i Rene, to policjanci, którzy go aresztowali za potrójne morderstwo. Zdjęcie oraz film pokazany na kamerze panu Eddy'emu są dowodami na to, że Rene znała obydwu mężczyzn. Cała reszta jest jednym wielkim urojeniem człowieka, który nie chce dopuścić do siebie świadomości tego, czego się dopuścił.
+Zatem zdanie, że „Dick Laurent nie żyje” jest pierwszą próbą przebicia się do świadomości i temu służy — pokazaniu, że to już tylko rojenia Freda. Dlatego Tajemniczy Człowiek na przyjęciu przywołał Andy'emu na myśl „jakiegoś znajomego Dicka Laurenta”. Policjanci, którzy zjawiają się w domu Freda i Rene, to policjanci, którzy go aresztowali za potrójne morderstwo. Zdjęcie oraz film pokazany na kamerze panu Eddy'emu są dowodami na to, że Rene znała obydwu mężczyzn. Cała reszta jest jednym wielkim urojeniem człowieka, który nie chce dopuścić do siebie świadomości tego, czego się dopuścił.
 
 Genialne, panie Lynch.
 
 ---
 
->_Funny how secrets travel home_
+>*Funny how secrets travel home*
 >
->— David Bowie, "I'm Deranged"
+>— David Bowie, „I'm Deranged”
 
 ---
 
@@ -131,4 +131,4 @@ Komentarze, które wcześniej były w tekście głównym, ale tylko zaciemniały
 1. Straszność sceny z Tajemniczym Mężczyzną bazuję na [ankiecie przeprowadzonej na Gronie](http://grono.net/chat/#lynch/topic/1110561/sl/najstraszniejsze-sceny/), więc wiarygodność pozostawiam ocenie czytelnika. Niemniej jest to zjawisko znane szerzej niż tylko martwy portal socialmediowy, a jako przykład mogę przytoczyć [artykuł z TV Tropes pt. „Nothing is Scarier”](https://tvtropes.org/pmwiki/pmwiki.php/Main/NothingIsScarier).
 2. Małe miasteczko, do którego wraca Pete, to nic innego jak Los Angeles. David Lynch tak zręcznie dobrał lokacje, że udało mu się stworzyć wrażenie jakiejś dziury zabitej deskami.
 3. Kompozycja, którą Fred najpierw katował w klubie, a potem Pete ze złością wyłączył to „Red Bats with the Teeth” Angelo Badalamentiego.
-4. Odnośnie Rene i Alice będących tą samą postacią, Patricia Arquette zdradziła, że spytała o to Davida Lyncha, na co ten odparł, że nie. Ale nawet bez jej wypowiedzi znajdziemy potwierdzenie w filmie. Inna sprawa, że Lynch jest znany z tego, że każe robić aktorom dziwne rzeczy (tzw. [_Enforced Method Acting_](https://tvtropes.org/pmwiki/pmwiki.php/Main/EnforcedMethodActing)), żeby uzyskać zamierzony efekt. Jim Jarmusch na przykład podczas kręcenia „Broken Flowers” nakłamał aktorkom o tym, jaką rolę pełnią w fabule.
+4. Odnośnie Rene i Alice będących tą samą postacią, Patricia Arquette zdradziła, że spytała o to Davida Lyncha, na co ten odparł, że nie. Ale nawet bez jej wypowiedzi znajdziemy potwierdzenie w filmie. Inna sprawa, że Lynch jest znany z tego, że każe robić aktorom dziwne rzeczy (tzw. [*Enforced Method Acting*](https://tvtropes.org/pmwiki/pmwiki.php/Main/EnforcedMethodActing)), żeby uzyskać zamierzony efekt. Jim Jarmusch na przykład podczas kręcenia „Broken Flowers” nakłamał aktorkom o tym, jaką rolę pełnią w fabule.
